@@ -111,7 +111,7 @@ p{
 /* Showcase */
 #showcase
 {
-    background:url(https://iemprashant.github.io/web-prototype-hotel/showcase.jpg) no-repeat center center/cover;
+    background:url(showcase.jpg) no-repeat center center/cover;
     height: 600px;
 }
 #showcase .showcase-content
@@ -137,7 +137,7 @@ p{
 }
 #home-info .info-img
 {
-    background:url(https://iemprashant.github.io/web-prototype-hotel/info.jpg) no-repeat;
+    background:url(info.jpg) no-repeat;
     justify-content: flex-start;
     width: 50%;
     min-height: 100%; 
